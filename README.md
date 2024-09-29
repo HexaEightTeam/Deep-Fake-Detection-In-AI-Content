@@ -67,9 +67,6 @@ This script computes a hash of the AI-generated message, signs it using HexaEigh
 
 Use the `VerifyMessageIntegrity.csx` script to verify the integrity of any AI-generated content by comparing the original and received hashes.
 
-bash
-
-Copy code
 
 `dotnet script VerifyMessageIntegrity.csx '<signed-json-message>'` 
 
