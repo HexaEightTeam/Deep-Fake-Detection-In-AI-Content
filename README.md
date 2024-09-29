@@ -167,3 +167,11 @@ Note : The Message ID in the JSON message should match with the decoded JSON pro
 ```
 
 
+### Do I need any license for Message Verification.
+
+Absolutely NO,  In facce the Json Web Message can be shared with anyone. For Example here is the link to dotnet fiddle that uses the same verifyMessageIntegrity code in the browser to decode the AI message content.  This feature of HexaEight Signature Validation proves that its possible use our Technology to future proof communication across machines, users and AI to foster a safe and secure communicaiton environment 
+
+### Try it on .NET Fiddle:
+[![Run on .NET Fiddle](https://dotnetfiddle.net/assets/dotnetfiddle-badge.png)](https://dotnetfiddle.net/bFLXUk)
+
+
